@@ -14,4 +14,4 @@ To deepen my knowledge in analysis, I've taken several online courses, that help
 #### Visual Analytics with Tableau
 <img src="https://i.ibb.co/Zffxptf/Visual-Analytics-with-Tableau.png" alt="Visual Analytics with Tableau" border="0">
 https://www.coursera.org/account/accomplishments/certificate/BJAE8AHD3ZEM
-<a href="https://www.coursera.org/account/accomplishments/certificate/BJAE8AHD3ZEM/"> Link to certificate</a>
+<a href="https://lab.karpov.courses/certificate/d1146232-2120-4ef8-904d-154a5442b4f7/en/">Link to certificate</a>
