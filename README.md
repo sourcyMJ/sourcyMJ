@@ -7,11 +7,11 @@ To deepen my knowledge in analysis, I've taken several online courses, that help
 <img src="https://i.ibb.co/8btNZWX/Screenshot-2023-06-22-at-14-29-41.png" alt="Screenshot-2023-06-22-at-14-29-41" border="0">
 <img src="https://i.ibb.co/ypqpqNY/Screenshot-2023-06-22-at-14-29-57.png" alt="Screenshot 2023-06-22 at 14.29.57" border="0">
 
-#### Analytics simulator
+#### Data Analyst simulator
 <img src="https://i.ibb.co/VDTGbVL/Screenshot-2023-06-22-at-14-30-37.png" alt="Screenshot-2023-06-22-at-14-30-37" border="0">
 <a href="https://lab.karpov.courses/certificate/d1146232-2120-4ef8-904d-154a5442b4f7/en/">Link to certificate</a>
 
 #### Visual Analytics with Tableau
 <img src="https://i.ibb.co/Zffxptf/Visual-Analytics-with-Tableau.png" alt="Visual Analytics with Tableau" border="0">
 https://www.coursera.org/account/accomplishments/certificate/BJAE8AHD3ZEM
-<a href="https://www.coursera.org/account/accomplishments/certificate/BJAE8AHD3ZEM"> Link to certificate</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/BJAE8AHD3ZEM/"> Link to certificate</a>
