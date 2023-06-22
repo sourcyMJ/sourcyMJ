@@ -9,5 +9,5 @@ To deepen my knowledge in analysis, I've taken several online courses, that help
 
 #### Karpov.Courses
 <img src="https://i.ibb.co/VDTGbVL/Screenshot-2023-06-22-at-14-30-37.png" alt="Screenshot-2023-06-22-at-14-30-37" border="0">
-Certificate is avialable via this link: <a href="https://lab.karpov.courses/certificate/d1146232-2120-4ef8-904d-154a5442b4f7/en/">
+Certificate is avialable via this link: <a href="https://lab.karpov.courses/certificate/d1146232-2120-4ef8-904d-154a5442b4f7/en/">Link</a>
 
