@@ -4,4 +4,4 @@ To deepen my knowledge in analysis, I've taken several online courses, that help
 
 ### Education
 
-!([https://i.ibb.co/8btNZWX/Screenshot-2023-06-22-at-14-29-41.png])
+![alt text]([http://url/to/img.png](https://i.ibb.co/8btNZWX/Screenshot-2023-06-22-at-14-29-41.png)https://i.ibb.co/8btNZWX/Screenshot-2023-06-22-at-14-29-41.png)
