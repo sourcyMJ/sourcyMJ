@@ -5,3 +5,4 @@ To deepen my knowledge in analysis, I've taken several online courses, that help
 ### Education
 
 <img src="https://i.ibb.co/8btNZWX/Screenshot-2023-06-22-at-14-29-41.png" alt="Screenshot-2023-06-22-at-14-29-41" border="0">
+<img src="https://i.ibb.co/Ks7wMmR/Screenshot-2023-06-22-at-14-29-57.png" alt="Screenshot-2023-06-22-at-14-29-57" border="0">
