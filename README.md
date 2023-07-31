@@ -1,6 +1,5 @@
 ### About me
-I've started discovering data analysis in October 2021. Previously, I was engaged in analysis within the framework of real estate.
-To deepen my knowledge in data analysis, I've taken several online courses, that helped me to master Python, SQL, mathematical statistics, probability theory, product metrics and frameworks for product development. On academic projects, I practiced conducting statistical tests, creating dashboards in Tableau and Superset, using GIT and AIRFLOW.
+I have been engaged in analysis within the framework of real estate for more than 10 years already. To expand my skills in analytics I've started discovering data analysis in October 2021. Professional educational programs that I've chosen helped me to master Python, SQL, mathematical statistics, probability theory, product metrics and frameworks for product development. I practiced conducting statistical tests, creating dashboards in Tableau and Superset, using GIT and AIRFLOW.
 
 ### Education
 #### Data scientist diploma
